@@ -1,0 +1,148 @@
+header{
+    border-radius: 60px;
+}
+
+.bb{
+    color: black;
+}
+
+a{
+    color: black;
+}
+
+.dd{
+    background-color: rgb(228, 225, 225);
+}
+
+header{
+    background-color: #579BB1;
+}
+
+.card{
+    margin-left: 70px;
+   transition:0.4s;
+}
+
+.card:hover{
+    box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+-webkit-box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+-moz-box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+    
+}
+.main{
+margin-top: 85px;
+display: flex;
+margin-left: 40px;
+}
+
+.contact{
+    margin-top: -3%;
+}
+
+.sec{
+    background: url(../images/img3.jpg);
+    background-size: cover;
+    width: 1350px;
+    height: 500px;
+}
+
+.h11{
+    margin-left: 8%;  
+    padding-top: 14%; 
+    font-size: 300%;
+}
+
+.aaa{
+   padding: 10px;
+   transition:0.4s;
+   margin-left: 160px; 
+   margin-top: 30px;
+   border: none;
+}
+
+button:hover{
+    box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+-webkit-box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+-moz-box-shadow: 3px 5px 14px 12px rgba(0,0,0,0.42);
+    
+}
+
+p{
+    text-align: justify;
+    
+}
+
+.nav-link:hover{
+    border-radius: 20px;
+    box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+    -webkit-box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+    -moz-box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+transition: 0.5s;}
+    
+
+.navbar-brand:hover{
+    
+border-radius:20px;
+    box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+    -webkit-box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+    -moz-box-shadow: -7px -5px 10px 0px rgba(0,0,0,0.53);
+    transition: 0.5s;
+    
+}
+
+
+.pp{
+    margin: 40px 40px 40px 40px;
+}
+
+
+.sss{
+    text-shadow: 6px 6px 6px;
+}
+
+h2.ccc{
+    text-align: center;
+    color: skyblue;
+    margin-top: 6%;
+}
+
+
+.ball{
+    border-radius: 30px 20px;
+    padding: 15px  20px;
+    margin-left: 620px;
+    margin-top: 90px;
+    margin-bottom: 200x;
+    border: none;
+}
+
+
+.content-img{
+    width: 900px;
+    margin-left:150px;
+}
+
+.zzz{
+    border-radius: 20px;
+    
+}
+
+footer{
+    background-color: #579BB1;
+}
+
+button{
+    border: none;
+}
+
+footer li{
+    
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+}
+
+ul{
+    
+    margin-left: 400px;
+}
